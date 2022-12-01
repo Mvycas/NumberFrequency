@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pbOBS0eMLLRPbVF11yneI9aBYQXA5qbpF5cyst+CcQY=",
+  "Source": "FrequencyCalculator",
+  "BasePath": "_content/FrequencyCalculator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
